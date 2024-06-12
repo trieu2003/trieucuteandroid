@@ -1,0 +1,7 @@
+Link github:
+App xem phim : https://github.com/CaoNhatLinh/AppWatchMovie
+Web admin: https://github.com/CaoNhatLinh/MovieAdminLaravel
+Api : https://github.com/CaoNhatLinh/backend-api-moives
+Link website admin: movies.kamling.id.vn
+username : admin
+password: 123
